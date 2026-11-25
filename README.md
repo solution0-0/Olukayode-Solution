@@ -1,6 +1,6 @@
 # Olukayode Solution — Portfolio
 
-A personal portfolio recreation based on the layout and visual style of the supplied Perdi Nurfalah reference website. The page keeps the same simple Freelancer-style structure: dark navigation, turquoise masthead and About section, white portfolio/contact sections, six portfolio tiles and project detail modals.
+A personal portfolio recreation based on the layout and visual style . The page keeps the same simple Freelancer-style structure: dark navigation, turquoise masthead and About section, white portfolio/contact sections, six portfolio tiles and project detail modals.
 
 ## Publish on GitHub Pages
 1. Create a repository, e.g. `olukayode-portfolio`.
